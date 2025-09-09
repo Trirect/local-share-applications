@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=chatgpt
+Icon=application-x-executable
+Exec=./yeq_jq/zen/zen --new-window https://chatgpt.com/
+Actions=
+Categories=alacarte-made-2;

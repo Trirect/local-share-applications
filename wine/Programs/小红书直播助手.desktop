@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=小红书直播助手
+Exec=env "WINEPREFIX=/home/trirect/.wine" wine "C:\\\\users\\\\trirect\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start Menu\\\\Programs\\\\小红书直播助手.lnk"
+Type=Application
+StartupNotify=true
+Comment=小红书直播助手
+Path=/home/trirect/.wine/dosdevices/c:/users/trirect/AppData/Local/Programs/xhs-live-helper
+Icon=5808_xhs-live-helper.0
+StartupWMClass=xhs-live-helper.exe

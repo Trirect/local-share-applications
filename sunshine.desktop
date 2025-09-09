@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=sunshine
+Exec=/home/trirect/yeq_jq/sunshine.AppImage
+Comment=
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application

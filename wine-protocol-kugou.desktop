@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=KuGou
+MimeType=x-scheme-handler/kugou;
+Exec=env "WINEPREFIX=/home/trirect/.wine" wine start %u
+NoDisplay=true
+StartupNotify=true
+Icon=605F_KuGou.0

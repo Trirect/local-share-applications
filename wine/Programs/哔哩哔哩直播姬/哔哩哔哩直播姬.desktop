@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=哔哩哔哩直播姬
+Exec=env "WINEPREFIX=/home/trirect/.wine" wine "C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start Menu\\\\Programs\\\\哔哩哔哩直播姬\\\\哔哩哔哩直播姬.lnk"
+Type=Application
+StartupNotify=true
+Path=/home/trirect/.wine/dosdevices/c:/Program Files/bililive/livehime
+Icon=5042_livehime.0
+StartupWMClass=livehime.exe

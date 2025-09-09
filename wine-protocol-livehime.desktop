@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=哔哩哔哩直播姬
+MimeType=x-scheme-handler/livehime;
+Exec=env "WINEPREFIX=/home/trirect/.wine" wine start %u
+NoDisplay=true
+StartupNotify=true
+Icon=5042_livehime.0

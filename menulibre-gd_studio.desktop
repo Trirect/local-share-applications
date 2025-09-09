@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=gd_studio
+Icon=application-x-executable
+Exec=./yeq_jq/zen/zen --new-window https://music.gdstudio.xyz/
+Actions=
+Categories=X-GNOME-WebApplications;
+Keywords=music;xy_byx;

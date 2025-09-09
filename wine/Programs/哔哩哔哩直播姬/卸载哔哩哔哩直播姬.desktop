@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=卸载哔哩哔哩直播姬
+Exec=env "WINEPREFIX=/home/trirect/.wine" wine "C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start Menu\\\\Programs\\\\哔哩哔哩直播姬\\\\卸载哔哩哔哩直播姬.lnk"
+Type=Application
+StartupNotify=true
+Path=/home/trirect/.wine/dosdevices/c:/Program Files/bililive/livehime/7.24.0.9600
+Icon=F7CA_unins000.0
+StartupWMClass=unins000.exe

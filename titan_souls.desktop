@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Titan Souls
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/297130
+Icon=steam_icon_297130
+Terminal=false
+Type=Application
+Categories=Game;

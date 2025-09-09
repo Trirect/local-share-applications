@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=fcitx5
+Exec=/usr/bin/fcitx5
+Comment=
+Terminal=false
+Icon=gnome-panel-launcher
+Type=Application

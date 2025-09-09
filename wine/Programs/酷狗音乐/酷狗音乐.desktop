@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=酷狗音乐
+Exec=env "WINEPREFIX=/home/trirect/.wine" wine "C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start Menu\\\\Programs\\\\酷狗音乐\\\\酷狗音乐.lnk"
+Type=Application
+StartupNotify=true
+Comment=酷狗音乐 就是歌多
+Path=/home/trirect/.wine/dosdevices/c:/Program Files (x86)/KuGou/KGMusic
+Icon=605F_KuGou.0
+StartupWMClass=kugou.exe

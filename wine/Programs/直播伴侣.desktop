@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=直播伴侣
+Exec=env "WINEPREFIX=/home/trirect/.wine" wine "C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start Menu\\\\Programs\\\\直播伴侣.lnk"
+Type=Application
+StartupNotify=true
+Path=/home/trirect/.wine/dosdevices/c:/Program Files (x86)/webcast_mate
+Icon=3894_直播伴侣 Launcher.0
+StartupWMClass=直播伴侣 launcher.exe

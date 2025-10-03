@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=deepl
+Icon=application-x-executable
+Exec=zen --new-window https://www.deepl.com/zh/translator
+Actions=
+Categories=X-GNOME-Other;

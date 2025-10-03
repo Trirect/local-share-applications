@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=百合会
+GenericName=yamibo
+Icon=application-x-executable
+Exec=zen https://bbs.yamibo.com/
+Actions=
+Categories=X-GNOME-WebApplications;
+Keywords=fu jdk jb;bbs;

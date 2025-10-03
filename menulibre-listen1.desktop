@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=listen1
+Icon=application-x-executable
+Exec=./yeq_jq/listen1.AppImage
+Actions=
+Categories=Office;

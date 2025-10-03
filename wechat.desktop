@@ -1,10 +1,10 @@
 [Desktop Entry]
 Version=1.1
 Type=Application
-Name=wechat
+Name=wvf js
 GenericName=微信
 Icon=gnome-panel-launcher
 Exec=wechat
 Actions=
-Categories=alacarte-made;
+Categories=X-Gnome-Other;alacarte-made;
 Keywords=wvf js;

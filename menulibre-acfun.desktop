@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=acfun
+Icon=application-x-executable
+Exec=zen --new-window acfun.cn
+Actions=
+Categories=X-GNOME-Other;

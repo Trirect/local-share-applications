@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=foxmail
+Icon=application-x-executable
+Exec=./yeq_jq/zen/zen --new-window https://wx.mail.qq.com/
+Actions=
+Categories=X-GNOME-Other;

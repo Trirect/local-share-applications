@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=moekoe
+Icon=application-x-executable
+Exec=./yeq_jq/moekoe.AppImage
+Actions=
+Categories=Office;

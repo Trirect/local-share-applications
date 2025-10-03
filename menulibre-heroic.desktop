@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=heroic
+Icon=application-x-executable
+Exec=./yeq_jq/heroic.AppImage
+Actions=
+Categories=Office;

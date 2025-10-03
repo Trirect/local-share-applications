@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=ldtk
+Icon=application-x-executable
+Exec=./yeq_jq/ldtk.AppImage
+Actions=
+Categories=Office;

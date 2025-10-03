@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=google translate
+Icon=application-x-executable
+Exec=zen --new-window https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&op=translate
+Actions=
+Categories=X-GNOME-Other;

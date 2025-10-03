@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Gromit-MPX
+Comment=GRaphics Over MIscellaneous Things, a multi pointer annotation tool
+Icon=net.christianbeier.Gromit-MPX
+Exec=gromit-mpx
+Actions=
+Categories=Graphics;
+Keywords=presentation;overlay;markup;pointer;

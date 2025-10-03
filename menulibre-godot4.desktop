@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=godot4.5
+Icon=application-x-executable
+Exec=./yeq_jq/godot_v4.5-stable --display-driver x11
+Actions=
+Categories=X-GNOME-Other;

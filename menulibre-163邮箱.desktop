@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=163邮箱
+Icon=application-x-executable
+Exec=zen https://mail.163.com/
+Actions=
+Categories=X-GNOME-Other;
+Keywords=163;dte req;mbb one;

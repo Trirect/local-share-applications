@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Icon=application-x-executable
+Name=163邮箱
+Name[zh]=163邮箱
+Name[zh_CN]=163邮箱
+Name[zh_CN.UTF-8]=163邮箱
+Keywords=163;dte req;mbb one
+Keywords[zh]=163;dte req;mbb one
+Keywords[zh_CN]=163;dte req;mbb one
+Keywords[zh_CN.UTF-8]=163;dte req;mbb one
+Hidden=false
+NoDisplay=false
+StartupNotify=false
+Terminal=false
+

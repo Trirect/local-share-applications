@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=ujd xy
+GenericName=douyin
+Comment=抖音
+Icon=application-x-executable
+Exec=./yeq_jq/zen/zen --new-window https://www.douyin.com/jingxuan
+Actions=
+Categories=X-GNOME-WebApplications;X-Gnome-Other;
+Keywords=ujd xy;

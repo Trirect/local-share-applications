@@ -5,4 +5,4 @@ Name=chatgpt
 Icon=application-x-executable
 Exec=./yeq_jq/zen/zen --new-window https://chatgpt.com/
 Actions=
-Categories=alacarte-made-2;
+Categories=WebBrowser;alacarte-made-2;

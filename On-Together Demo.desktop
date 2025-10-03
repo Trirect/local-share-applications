@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Aseprite
+Name=On-Together Demo
 Comment=Play this game on Steam
-Exec=steam steam://rungameid/431730
-Icon=steam_icon_431730
+Exec=steam steam://rungameid/3760020
+Icon=steam_icon_3760020
 Terminal=false
 Type=Application
 Categories=Game;

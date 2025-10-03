@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=新启动器
+Comment=translate.google
+Icon=application-x-executable
+Exec=./yeq_jq/zen/zen https://translate.google.com/
+Actions=
+Categories=X-GNOME-Other;

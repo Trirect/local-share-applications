@@ -2,9 +2,9 @@
 Version=1.1
 Type=Application
 Name=百合会
-GenericName=yamibo
+GenericName=yamibo fu_jdk
 Icon=application-x-executable
 Exec=zen https://bbs.yamibo.com/
 Actions=
-Categories=X-GNOME-WebApplications;
+Categories=X-GNOME-WebApplications;X-Gnome-Other;
 Keywords=fu jdk jb;bbs;

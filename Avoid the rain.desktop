@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Avoid the rain
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1565530
+Icon=steam_icon_1565530
+Terminal=false
+Type=Application
+Categories=Game;

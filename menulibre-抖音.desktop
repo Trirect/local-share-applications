@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.1
 Type=Application
-Name=ujd xy
-GenericName=douyin
+Name=抖音
+GenericName=ujd_xy douyin
 Comment=抖音
 Icon=application-x-executable
 Exec=./yeq_jq/zen/zen --new-window https://www.douyin.com/jingxuan

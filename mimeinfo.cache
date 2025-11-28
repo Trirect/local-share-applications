@@ -8,6 +8,7 @@ text/plain=dev.zed.Zed.desktop;
 text/vbscript=wine-extension-vbs.desktop;
 x-scheme-handler/clash=clash-verge-handler.desktop;
 x-scheme-handler/clash-verge=clash-verge-handler.desktop;
+x-scheme-handler/joplin=appimagekit-joplin.desktop;
 x-scheme-handler/kugou=wine-protocol-kugou.desktop;
 x-scheme-handler/livehime=wine-protocol-livehime.desktop;
 x-scheme-handler/zed=dev.zed.Zed.desktop;

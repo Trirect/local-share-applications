@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=fub xlr by
+Icon=application-x-executable
+Exec=zen --new-window https://yun.baidu.com
+Actions=
+Categories=Office;WebBrowser;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=pixelorama
+Icon=application-x-executable
+Exec=./yeq_jq/pixelorama/pixelorama
+Actions=
+Categories=X-Gnome-Other;

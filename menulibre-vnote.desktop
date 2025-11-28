@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=vnote
+Icon=application-x-executable
+Exec=env QT_QPA_PLATFORM=xcb ./yeq_jq/vnote.AppImage %F
+Actions=
+Categories=Office;
